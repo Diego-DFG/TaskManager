@@ -13,3 +13,6 @@
 	.periodo li { list-style: none; }
 	.periodo li a { text-decoration: none; }
 .principal { width: 80%; text-align: center; color: rgba(0,0,0,0.3) }
+.principal-data { display: flex; position: relative;
+left: 200px; top: 20px; }
+.principal-data-input {margin-left: 1.5em; margin-top: 1em; border-radius: 30px; }
