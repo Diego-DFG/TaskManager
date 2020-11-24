@@ -1,0 +1,15 @@
+
+
+.navegacao { border-bottom: 1px solid rgba(0,0,0,0.1); padding-bottom: 1em;}
+	.navegacao-logo { margin-left: 2em; }
+		.navegacao-logo-titulo { font-size: 1.5em; text-decoration: none; color: #222; 
+			font-family: 'Arial', sans-serif; font-weight: 800;}
+		.logo { color: #db4a2e; }
+
+.menu { display: flex; font-family: 'Roboto', sans-serif; }
+
+.periodo { width: 20%; border-right: 1px solid rgba(0,0,0,0.1);
+	text-align: center; }
+	.periodo li { list-style: none; }
+	.periodo li a { text-decoration: none; }
+.principal { width: 80%; text-align: center; color: rgba(0,0,0,0.3) }
